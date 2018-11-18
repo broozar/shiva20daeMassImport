@@ -1,0 +1,15 @@
+<module name="DAE MASS IMPORTER" icon="DAE ImporterIcon" >
+
+    <!-- INFO -->
+    <author name="Felix Caffier" email="support@shiva-engine.com" website="trisymphony.com"/>
+    <description text="DAE 3D model mass importer"/>
+
+    <!-- COMMON -->
+    <depend  module="com.shiva.editor.common" />
+    <include file="/com.shiva.editor.common/guiexAPI.xml"/>
+
+    <!-- INCLUDES -->
+    <include file="resources/resources.xml"/>
+    <include file="views/mainView/mainView.xml" />   
+
+</module>

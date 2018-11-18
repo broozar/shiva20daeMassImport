@@ -1,0 +1,35 @@
+<resources>
+
+    <icon id="DAE ImporterIcon">
+        <pixmap mode="normal"       state="off"   file="collada16.png" />
+        <pixmap mode="normal"       state="on"    file="collada16_hi.png" />
+        <pixmap mode="selected"     state="off"   file="collada16_hi.png" />
+        <pixmap mode="selected"     state="on"    file="collada16_hi.png" />
+        <pixmap mode="active"       state="off"   file="collada16.png" />
+        <pixmap mode="active"       state="on"    file="collada16_hi.png" />
+        <pixmap mode="disabled"     state="off"   file="collada16.png" />
+        <pixmap mode="disabled"     state="on"    file="collada16.png" />
+
+        <pixmap mode="normal"       state="off"   file="collada32.png" />
+        <pixmap mode="normal"       state="on"    file="collada32_hi.png" />
+        <pixmap mode="selected"     state="off"   file="collada32_hi.png" />
+        <pixmap mode="selected"     state="on"    file="collada32_hi.png" />
+        <pixmap mode="active"       state="off"   file="collada32.png" />
+        <pixmap mode="active"       state="on"    file="collada32_hi.png" />
+        <pixmap mode="disabled"     state="off"   file="collada32.png" />
+        <pixmap mode="disabled"     state="on"    file="collada32.png" />
+
+        <pixmap mode="normal"       state="off"   file="collada64.png" />
+        <pixmap mode="normal"       state="on"    file="collada64_hi.png" />
+        <pixmap mode="selected"     state="off"   file="collada64_hi.png" />
+        <pixmap mode="selected"     state="on"    file="collada64_hi.png" />
+        <pixmap mode="active"       state="off"   file="collada64.png" />
+        <pixmap mode="active"       state="on"    file="collada64_hi.png" />
+        <pixmap mode="disabled"     state="off"   file="collada64.png" />
+        <pixmap mode="disabled"     state="on"    file="collada64.png" />
+    </icon>
+     
+</resources>
+
+
+
